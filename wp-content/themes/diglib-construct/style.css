@@ -1,0 +1,15 @@
+/*
+Theme Name:     Construct for DLF
+Theme URI:      
+Description:    
+Author:         
+Author URI:     
+Template:       construct
+Version:        1.0
+*/
+
+@import url('../construct/style.css');
+
+.additional_posts_module .post_grid_image {
+	display: none;
+}
